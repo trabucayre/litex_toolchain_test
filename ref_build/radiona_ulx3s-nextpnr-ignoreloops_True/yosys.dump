@@ -1,0 +1,1 @@
+yosys -l radiona_ulx3s.rpt radiona_ulx3s.ys

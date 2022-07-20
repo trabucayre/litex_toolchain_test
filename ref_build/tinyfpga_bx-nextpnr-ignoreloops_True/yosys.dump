@@ -1,0 +1,1 @@
+yosys -l tinyfpga_bx.rpt tinyfpga_bx.ys

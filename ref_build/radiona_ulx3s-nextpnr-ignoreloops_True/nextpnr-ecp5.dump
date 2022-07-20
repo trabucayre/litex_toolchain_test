@@ -1,0 +1,1 @@
+nextpnr-ecp5 --json radiona_ulx3s.json --lpf radiona_ulx3s.lpf --textcfg radiona_ulx3s.config --45k --package CABGA381 --speed 6 --timing-allow-fail --ignore-loops --seed 1

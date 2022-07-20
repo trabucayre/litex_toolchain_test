@@ -1,0 +1,1 @@
+yosys -l gsd_orangecrab.rpt gsd_orangecrab.ys

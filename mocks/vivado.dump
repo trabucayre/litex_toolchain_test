@@ -1,0 +1,1 @@
+/home/gwe/projets/litex-notes/tests/./mocks/vivado -mode batch -source alinx_axu2cga.tcl

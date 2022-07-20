@@ -1,0 +1,1 @@
+nextpnr-ecp5 --json colorlight_i5.json --lpf colorlight_i5.lpf --textcfg colorlight_i5.config --25k --package CABGA381 --speed 6 --timing-allow-fail --seed 1

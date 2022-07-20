@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "diamondc $@" > diamondc.dump
+filename="${1%%.*}"
+[ -d impl ] || mkdir impl
+touch impl/${filename}_impl.bit

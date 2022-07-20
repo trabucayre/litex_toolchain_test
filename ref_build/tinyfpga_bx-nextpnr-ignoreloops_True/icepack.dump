@@ -1,0 +1,1 @@
+icepack -s tinyfpga_bx.asc tinyfpga_bx.bin

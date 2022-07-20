@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "nextpnr-ecp5 $@" > nextpnr-ecp5.dump

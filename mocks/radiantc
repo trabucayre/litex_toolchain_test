@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "radiantc $@" > radiantc.dump
+filename="${1%%.*}"
+[ -d impl ] || mkdir impl
+touch impl/${filename}_impl.bit
+echo "Level/" > impl/${filename}_impl.par
+echo "Cost"  >> impl/${filename}_impl.par
+echo "* : Design saved."  >> impl/${filename}_impl.par
+touch impl/${filename}_impl.par
+

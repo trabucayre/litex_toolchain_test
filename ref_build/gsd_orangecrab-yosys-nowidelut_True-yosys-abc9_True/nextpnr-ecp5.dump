@@ -1,0 +1,1 @@
+nextpnr-ecp5 --json gsd_orangecrab.json --lpf gsd_orangecrab.lpf --textcfg gsd_orangecrab.config --25k --package CSFBGA285 --speed 8 --timing-allow-fail --seed 1

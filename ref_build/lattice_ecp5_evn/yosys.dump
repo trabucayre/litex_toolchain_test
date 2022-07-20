@@ -1,0 +1,1 @@
+yosys -l lattice_ecp5_evn.rpt lattice_ecp5_evn.ys

@@ -1,0 +1,1 @@
+yosys -l lattice_crosslink_nx_vip.rpt lattice_crosslink_nx_vip.ys

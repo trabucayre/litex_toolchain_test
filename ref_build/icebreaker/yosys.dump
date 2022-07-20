@@ -1,0 +1,1 @@
+yosys -l icebreaker.rpt icebreaker.ys

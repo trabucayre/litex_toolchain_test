@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "nextpnr-ice40 $@" > nextpnr-ice40.dump

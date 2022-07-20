@@ -1,0 +1,1 @@
+ecppack lattice_ecp5_evn.config --svf lattice_ecp5_evn.svf --bit lattice_ecp5_evn.bit --bootaddr 0

@@ -1,0 +1,15 @@
+set_io clk12 35
+set_io user_btn_n 10
+set_io serial_rx 6
+set_io serial_tx 9
+set_io spiflash4x_cs_n 16
+set_io spiflash4x_clk 15
+set_io spiflash4x_dq[0] 14
+set_io spiflash4x_dq[1] 17
+set_io spiflash4x_dq[2] 12
+set_io spiflash4x_dq[3] 13
+set_io user_led0 26
+set_io user_led1 27
+set_io user_led2 25
+set_io user_led3 23
+set_io user_led4 21

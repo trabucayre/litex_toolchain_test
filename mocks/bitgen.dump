@@ -1,0 +1,1 @@
+/home/gwe/projets/litex-notes/tests/mocks/bitgen -g Binary:Yes -w -g Compress -g ConfigRate:6 saanlima_pipistrello.ncd saanlima_pipistrello.bit

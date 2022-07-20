@@ -1,0 +1,1 @@
+ecppack gsd_orangecrab.config --svf gsd_orangecrab.svf --bit gsd_orangecrab.bit --bootaddr 0

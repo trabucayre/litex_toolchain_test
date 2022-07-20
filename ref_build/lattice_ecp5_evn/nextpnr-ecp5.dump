@@ -1,0 +1,1 @@
+nextpnr-ecp5 --json lattice_ecp5_evn.json --lpf lattice_ecp5_evn.lpf --textcfg lattice_ecp5_evn.config --um5g-85k --package CABGA381 --speed 8 --timing-allow-fail --seed 1

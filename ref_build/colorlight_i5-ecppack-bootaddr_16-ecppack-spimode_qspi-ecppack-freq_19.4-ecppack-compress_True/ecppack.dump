@@ -1,0 +1,1 @@
+ecppack colorlight_i5.config --svf colorlight_i5.svf --bit colorlight_i5.bit --bootaddr 16 --spimode qspi --freq 19.4 --compress

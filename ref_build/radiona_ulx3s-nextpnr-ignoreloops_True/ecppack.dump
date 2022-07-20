@@ -1,0 +1,1 @@
+ecppack radiona_ulx3s.config --svf radiona_ulx3s.svf --bit radiona_ulx3s.bit --bootaddr 0

@@ -1,0 +1,1 @@
+nextpnr-nexus --json lattice_crosslink_nx_evn.json --pdc lattice_crosslink_nx_evn.pdc --fasm lattice_crosslink_nx_evn.fasm --device LIFCL-40-9BG400C --timing-allow-fail --seed 1
